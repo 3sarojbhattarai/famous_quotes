@@ -5,7 +5,9 @@ Famous Quote is a Django-based web application and REST API. That will show a fa
 - Django
 - Django Rest Framework
 - Redis
-- Celery,
+- Celery
 
 # Issues
 Bugs and patches can be reported on the [GitHub page]( https://github.com/3sarojbhattarai/famous_quotes/issues).
+
+
